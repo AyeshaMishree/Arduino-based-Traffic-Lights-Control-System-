@@ -1,4 +1,4 @@
-Arduino-based **Traffic Lights Controlling system**
+Arduino-based **Traffic Lights Controlling system** ------------
 **Software Requirements:**
 1) Circuit design & simulation on "tinkercad.com" (link to complete circuit & code provided in text file)
 **Hardware Requirements:**
