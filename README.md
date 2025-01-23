@@ -12,3 +12,4 @@ Jumper wires,
 (image of hardware circuit in hardware_circuit.png file)
 
 ![4-sided circuit image (tinkercad)](https://github.com/user-attachments/assets/5ded2eaf-6a59-40a3-944b-52b47b015678)
+![hardware_circuit](https://github.com/user-attachments/assets/548ffb58-1d1c-4676-a3cb-67e53b3416b8)
